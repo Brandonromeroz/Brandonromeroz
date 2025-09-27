@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Brandonromeroz/Brandonromeroz/blob/main/banner.JPEG?raw=true" alt="Banner Brandon" width="100%" />
+  <img src="https://github.com/Brandonromeroz/Brandonromeroz/blob/main/banner.JPEG?raw=true" alt="Banner Brandon" width="40%" />
 </p>
 
 # 👋 ¡Hola! Soy Brandon Romero Zavala
