@@ -1,0 +1,21 @@
+name: Actualizar últimos videos de YouTube
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Se ejecuta cada 12 horas
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Actualizar README con últimos videos
+        uses: ahmadnassri/rss-feed-readme-action@v1.1.0
+        with:
+          feed_url: 'https://rss.app/feeds/Dt2dWglUxHLFACrg.xml'
+          readme_path: 'README.md'
+          start_marker: '<!-- BLOG-POST-LIST:START -->'
+          end_marker: '<!-- BLOG-POST-LIST:END -->'
+          max_posts: 3
