@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Brandonromeroz/Brandonromeroz/blob/7550a13d220071f88c35a81592795296f4286ba1/banner.JPEGraw=true" alt="Banner Brandon" width="100%" />
-</p>
+<img src="https://github.com/Brandonromeroz/Brandonromeroz/blob/main/banner.JPEG?raw=true" alt="Banner Brandon" width="100%" />
+
 
 # 👋 ¡Hola! Soy Brandon
 
