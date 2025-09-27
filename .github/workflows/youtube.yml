@@ -10,8 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
       - name: Actualizar README con últimos videos
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 3
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCmvLZyhnFnnlwO7k7lWqjhw"
+          feed_list: "https://rss.app/feeds/Dt2dWglUxHLFACrg.xml"
