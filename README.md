@@ -33,15 +33,15 @@ Apasionado por desarrollo web, tecnología y creación de contenido educativo en
 ---
 
 ## 🎥 Últimos videos
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+https://youtu.be/x3LA4Oh2TpU
+https://youtu.be/xOYibaOUQ3Y?si=HgB9GmMJWJndk7j-
 
 ---
 
 ## 🌍 Conéctate conmigo
 <p align="center">
   <a href="https://www.linkedin.com/in/brandon-romero-zavala-8247a6267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@SomosBrandonyRubenTV"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UC92aZMuHPUMNFUv6KX7pV8w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.instagram.com/brandooonnx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
