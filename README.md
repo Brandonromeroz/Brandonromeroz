@@ -13,7 +13,7 @@ Apasionado por desarrollo web, tecnología y creación de contenido educativo en
 ## 🚀 Sobre mí
 - Desarrollo web con **Java, JavaScript, PHP, C#, Laravel, Next.js y React**  
 - Experiencia en **proyectos de drones, e-learning y plataformas web modernas**  
-- Produzco contenido técnico y reviews de gadgets en [Somos Brandon y Rubén TV](https://www.youtube.com/@SomosBrandonyRubenTV)
+- Produzco contenido técnico y reviews de gadgets en [Somos Brandon y Rubén TV](https://www.youtube.com/c/SomosBrandonYRub%C3%A9nTV)
 
 ---
 
@@ -40,9 +40,9 @@ Apasionado por desarrollo web, tecnología y creación de contenido educativo en
 
 ## 🌍 Conéctate conmigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/tuuser"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/brandon-romero-zavala-8247a6267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/@SomosBrandonyRubenTV"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/tuuser"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/brandooonnx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
