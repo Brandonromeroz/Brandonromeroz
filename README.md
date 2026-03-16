@@ -6,7 +6,7 @@
 
 # Brandon Romero Zavala
 
-Software Engineer · Mobile Developer · Tech Content Creator
+Software Engineer · Full Stack Developer · Tech Content Creator
 
 Ingeniero en software enfocado en desarrollo web y aplicaciones móviles. Trabajo principalmente creando sistemas y apps modernas utilizando tecnologías como React Native, Laravel y PostgreSQL.
 
