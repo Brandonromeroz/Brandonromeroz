@@ -36,23 +36,6 @@ Principales áreas de trabajo
 * Bases de datos con PostgreSQL
 * Control de versiones con Git
 
----
-
-## Proyectos destacados
-
-<p align="center">
-
-<a href="https://github.com/Brandonromeroz/nombre-del-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brandonromeroz&repo=nombre-del-repo&hide_border=true" />
-</a>
-
-<a href="https://github.com/Brandonromeroz/nombre-del-repo2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brandonromeroz&repo=nombre-del-repo2&hide_border=true" />
-</a>
-
-</p>
-
----
 
 ## Actividad en GitHub
 
