@@ -34,11 +34,11 @@
 
 | Especialidades | Stack Principal |
 | :--- | :--- |
-| 📱 **Mobile** | React Native |
-| 🌐 **Web** | Laravel & JavaScript |
-| ⚙️ **Backend** | REST APIs (Node.js/PHP) |
-| 🗄️ **Database** | PostgreSQL |
-| 🛠️ **Tools** | Git & Figma |
+|  **Mobile** | React Native |
+|  **Web** | Laravel & JavaScript React  |
+|  **Backend** | REST APIs (Node.js/PHP) |
+|  **Database** | PostgreSQL |
+|  **Tools** | Git & Figma |
 
 </div>
 
