@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://github.com/Brandonromeroz/Brandonromeroz/blob/97d4260dca5da5af587345880a23a5a9cd7f5485/banner2.jpeg?raw=true" 
-       alt="Banner Brandon" 
-       width="60%" 
-       style="border-radius: 25px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" />
+       alt="Brandon Romero" 
+       width="200" 
+       height="200" 
+       style="border-radius: 50%; object-fit: cover; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" />
 </p>
-
 <h1 align="center">Brandon Romero Zavala</h1>
 
 <p align="center">
@@ -17,13 +17,7 @@
   Contenido sobre tecnología en YouTube.
 </p>
 
-<p align="center">
-  <img src="https://github.com/Brandonromeroz/Brandonromeroz/blob/97d4260dca5da5af587345880a23a5a9cd7f5485/banner2.jpeg?raw=true" 
-       alt="Brandon Romero" 
-       width="200" 
-       height="200" 
-       style="border-radius: 50%; object-fit: cover; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" />
-</p>
+
 
 ---
 
