@@ -5,19 +5,22 @@
        height="200" 
        style="border-radius: 50%; object-fit: cover; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" />
 </p>
+
 <h1 align="center">Brandon Romero Zavala</h1>
 
 <p align="center">
-  <strong>Software Engineer · Full Stack Developer · Tech Content Creator</strong>
+  <strong>Software Engineer @Blacksheep · Full Stack Developer · Tech Content Creator</strong>
 </p>
 
 <p align="center">
   Ingeniero en software enfocado en desarrollo web y aplicaciones móviles. <br>
-  Especialista en <b>React Native, Laravel y PostgreSQL</b>. 
-  Contenido sobre tecnología en YouTube.
+  Actualmente impulsando proyectos en <b>Blacksheep</b> con <b>React Native, Laravel y PostgreSQL</b>. <br>
+  Divulgador de tecnología en YouTube.
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Brandonromeroz&label=Profile%20views&color=0e75b6&style=flat-square" />
+</p>
 
 ---
 
@@ -33,7 +36,7 @@
 | :--- | :--- |
 | 📱 **Mobile** | React Native |
 | 🌐 **Web** | Laravel & JavaScript |
-| ⚙️ **Backend** | REST APIs |
+| ⚙️ **Backend** | REST APIs (Node.js/PHP) |
 | 🗄️ **Database** | PostgreSQL |
 | 🛠️ **Tools** | Git & Figma |
 
@@ -59,6 +62,7 @@
 
 * 📺 [Mira mi último video aquí](https://youtu.be/x3LA4Oh2TpU)
 * 📱 [Review reciente](https://youtu.be/xOYibaOUQ3Y)
+
 ---
 
 ### 📫 Contacto
