@@ -53,14 +53,6 @@ Principales áreas de trabajo
 
 ---
 
-## Actividad de contribuciones
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Brandonromeroz/Brandonromeroz/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## Canal de tecnología
 
 Co-creador del canal:
