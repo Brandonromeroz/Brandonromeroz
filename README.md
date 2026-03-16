@@ -1,50 +1,118 @@
 <!-- Banner -->
+
 <p align="center">
-  <img src="https://github.com/Brandonromeroz/Brandonromeroz/blob/main/banner.JPEG?raw=true" alt="Banner Brandon" width="60%" />
+  <img src="https://github.com/Brandonromeroz/Brandonromeroz/blob/main/banner.JPEG?raw=true" alt="Banner Brandon" width="70%" />
 </p>
 
-# 👋 ¡Hola! Soy Brandon Romero Zavala
+# Brandon Romero Zavala
 
-💻 **Ingeniero en Software** | 🎥 **Creador de contenido tech**  
-Apasionado por desarrollo web, tecnología y creación de contenido educativo en YouTube.  
+Software Engineer · Mobile Developer · Tech Content Creator
 
----
+Ingeniero en software enfocado en desarrollo web y aplicaciones móviles. Trabajo principalmente creando sistemas y apps modernas utilizando tecnologías como React Native, Laravel y PostgreSQL.
 
-## 🚀 Sobre mí
-- Desarrollo web con **Java, JavaScript, PHP, C#, Laravel, Next.js y React**  
-- Experiencia en **proyectos de drones, e-learning y plataformas web modernas**  
-- Produzco contenido técnico y reviews de gadgets en [Somos Brandon y Rubén TV](https://www.youtube.com/c/SomosBrandonYRub%C3%A9nTV)
+También creo contenido sobre tecnología, gadgets y software en YouTube.
 
 ---
 
-## 🛠 Habilidades
+## Visitas al perfil
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nextjs,mongodb,astro,figma" />
-</p>
-
----
-
-## 💼 Experiencia destacada
-- **Desarrollador Web** – SKYDELIVER (2025)  
-- **Desarrollador Web** – AI KOI (2024)  
-- **Creador de Contenido** – Somos Brandon y Rubén TV (Actualmente)  
-- **Colaborador Oficial** – OPPO México  
-
----
-
-## 🎥 Últimos videos
-https://youtu.be/x3LA4Oh2TpU
-https://youtu.be/xOYibaOUQ3Y?si=HgB9GmMJWJndk7j-
-
----
-
-## 🌍 Conéctate conmigo
-<p align="center">
-  <a href="https://www.linkedin.com/in/brandon-romero-zavala-8247a6267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/channel/UC92aZMuHPUMNFUv6KX7pV8w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/brandooonnx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Brandonromeroz&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-✨ *“Combino desarrollo de software con contenido que acerca la tecnología a la comunidad.”*
+## Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,csharp,laravel,react,postgres,git,figma,vscode" />
+</p>
+
+Principales áreas de trabajo
+
+* Desarrollo de aplicaciones móviles con React Native
+* Desarrollo web con Laravel y JavaScript
+* Diseño de APIs REST
+* Bases de datos con PostgreSQL
+* Control de versiones con Git
+
+---
+
+## Proyectos destacados
+
+<p align="center">
+
+<a href="https://github.com/Brandonromeroz/nombre-del-repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brandonromeroz&repo=nombre-del-repo&hide_border=true" />
+</a>
+
+<a href="https://github.com/Brandonromeroz/nombre-del-repo2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brandonromeroz&repo=nombre-del-repo2&hide_border=true" />
+</a>
+
+</p>
+
+---
+
+## Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brandonromeroz&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brandonromeroz&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandonromeroz&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## Actividad de contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Brandonromeroz/Brandonromeroz/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## Canal de tecnología
+
+Co-creador del canal:
+
+Somos Brandon y Rubén TV
+
+Contenido sobre tecnología, gadgets y software.
+
+---
+
+## Últimos videos de YouTube
+
+<!-- YOUTUBE:START -->
+
+* https://youtu.be/x3LA4Oh2TpU
+* https://youtu.be/xOYibaOUQ3Y
+
+<!-- YOUTUBE:END -->
+
+---
+
+## Contacto
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/brandon-romero-zavala-8247a6267/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UC92aZMuHPUMNFUv6KX7pV8w">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/brandooonnx/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
