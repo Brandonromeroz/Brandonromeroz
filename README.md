@@ -71,10 +71,10 @@
 <a href="https://www.linkedin.com/in/brandon-romero-zavala-8247a6267/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/channel/UC92aZMuHPUMNFUv6KX7pV8w">
+<a href="https://www.youtube.com/@BrandonYRubenTV">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/brandooonnx/">
+<a href="https://www.instagram.com/brandooonxx/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
